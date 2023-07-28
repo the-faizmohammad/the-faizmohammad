@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
-### Available for Hire ###
 - 👋 Hello, I'm @the-faizmohammad
 - 🌱 I'm a passionate learner focusing on Full Stack web and mobile development.
 - 💼 Currently, I am honing my skills in various technologies such as HTML, CSS, JavaScript, React, Node.js, Express, and React Native.

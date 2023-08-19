@@ -7,4 +7,8 @@
 - 🌐 Check out my portfolio and contributions on GitHub: [GitHub Profile](https://github.com/the-faizmohammad)
 - Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in working together! Let's build something awesome! 😊🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-faizmohammad&show_icons=true&theme=theme_name) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-faizmohammad&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 

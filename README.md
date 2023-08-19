@@ -1,3 +1,5 @@
+   ![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/2893ea2d-3050-4f18-bc7d-5b0f432b72a7)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
 - 👋 Hello, I'm @the-faizmohammad
 - 🌱 I'm a passionate learner focusing on Full Stack web and mobile development.
@@ -10,5 +12,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-faizmohammad&show_icons=true&theme=theme_name) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-faizmohammad&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) 
 

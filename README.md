@@ -1,4 +1,4 @@
-   ![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/2893ea2d-3050-4f18-bc7d-5b0f432b72a7)
+![text](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/1eec2f6d-db27-4ce9-98dc-993524db4bd3)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
 

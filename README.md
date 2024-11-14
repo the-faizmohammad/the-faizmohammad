@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
 
-## 👨‍💻 Full Stack Web Developer | I strongly believe " You meet, We Grow.
+## 👨‍💻 Full Stack Web Developer | Strong Believer " You meet, We Grow.
 
 🌱 I am a results-oriented Full Stack Developer with a strong foundation in web development with software engineering principles. I specialize in creating efficient, functional solutions and am skilled in both front-end and back-end technologies.
 

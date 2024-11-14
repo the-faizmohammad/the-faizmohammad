@@ -15,12 +15,5 @@
 
 ### 🎉 Presenting a spontaneous chuckle catalyst: a whimsical jest that's bound to set your laughter in motion!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
-# 🏆 Achievements
-
-
-
-![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/e7dd7f85-fd0e-4805-b290-a3922e215130) ![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/2d75568f-506c-4e54-bec3-944d78c2184b) ![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/63646f1e-6efe-4bef-822a-62d43d9134a8)![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/a0ebcf6f-3a8c-4c26-b1fd-48b087ed5c8f) ![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/b217a77d-1505-42aa-8852-2f941e84d1ed)![image](https://github.com/the-faizmohammad/the-faizmohammad/assets/134736318/f635014a-0980-459c-931a-909af1412b28)
-
-
 - Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in working together! Let's build something awesome! 😊🚀
 

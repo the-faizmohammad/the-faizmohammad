@@ -2,9 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
 
-- 🌱 I'm a passionate learner focusing on Full Stack web and mobile development.
-- 💼 Skilled in various technologies such as HTML, CSS, JavaScript, React, Ruby &  Rails.
-- 💞️ I am eager to collaborate on exciting projects that challenge me and allow me to grow as a developer.
+## 👨‍💻 Full Stack Web Developer | Mobile Developer | Passionate Learner
+
+🌱 I am a results-oriented Full Stack Developer with a strong foundation in web development with software engineering principles. I specialize in creating efficient, functional solutions and am skilled in both front-end and back-end technologies.
+
+💼 **Core Skills**:
+- **Front-End**: JavaScript, React, Redux, HTML5, CSS, Bootstrap, Tailwind CSS, Vue.js
+- **Back-End**: Ruby, Rails, Node.js, MySQL, MongoDB, PostgreSQL
+- **Tools & Practices**: Git, GitHub, Heroku, Netlify, RSpec, TDD, RESTful APIs, Mobile/Responsive Development
+- **Professional Traits**: Remote pair-programming, collaboration, mentoring, adaptability, problem-solving
+
+💞 I am eager to collaborate on projects that challenge me and provide opportunities for growth. I’m passionate about leveraging emerging technologies such as cloud computing, mobile development, and machine learning to build innovative solutions.
 - 📫 You can reach me via email at [email2faizm@gmail.com](mailto:email2faizm@gmail.com) or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/faiz-mohammad-967354142/)
 - 🌐 Check out my portfolio and contributions on GitHub: [GitHub Profile](https://github.com/the-faizmohammad)
 - Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in working together! Let's build something awesome! 😊🚀

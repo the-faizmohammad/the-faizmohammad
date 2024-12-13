@@ -8,7 +8,7 @@
 
 💼 **Core Skills**:
 - **Front-End**: JavaScript, React, Redux, HTML5, CSS, Bootstrap, Tailwind CSS, Vue.js
-- **Back-End**: Ruby, Rails, Node.js, MySQL, MongoDB, PostgreSQL
+- **Back-End**: Ruby, Rails, Node.js, MySQL, PostgreSQL
 - **Tools & Practices**: Git, GitHub, Heroku, Netlify, RSpec, TDD, RESTful APIs, Mobile/Responsive Development
 - **Professional Traits**: Remote pair-programming, collaboration, mentoring, adaptability, problem-solving
 
